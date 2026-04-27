@@ -59,8 +59,6 @@ Analyzed Zomato dataset to uncover insights on restaurant performance, customer 
 - Full dataset (external due to size):  
 👉 [Download from Google Drive](https://drive.google.com/file/d/1iWFOalRv-uEs28I15cUktajM7j9WWmpg/view?usp=sharing)
 
-- Sample dataset available in `/data`
-
 ---
 
 ## 🚀 Business Recommendations
