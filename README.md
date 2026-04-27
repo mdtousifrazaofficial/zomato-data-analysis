@@ -19,9 +19,11 @@ Analyzed Zomato dataset to uncover insights on restaurant performance, customer 
 - Pricing affects order frequency
 
 ## 📁 Structure
-- sql/ → queries
-- notebook/ → analysis
-- dashboard/ → Power BI files
+- **data/** → dataset used for analysis  
+- **sql/** → SQL queries for data extraction  
+- **notebook/** → exploratory data analysis (EDA)  
+- **dashboard/** → Power BI dashboard files & screenshots  
+- **report/** → final report (PDF)  
 
 ## 📂 Dataset
 - The full dataset is too large to upload on GitHub.
