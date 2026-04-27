@@ -1,33 +1,74 @@
-# zomato-data-analysis
+# 🍽️ Zomato Data Analysis Dashboard
 
-## 📌 Overview
-Analyzed Zomato dataset to uncover insights on restaurant performance, customer behavior, and delivery impact.
+## 📌 Problem Statement
+Understanding restaurant performance and customer behavior is critical for improving business decisions in the food delivery industry.  
+This project analyzes Zomato data to identify key factors affecting revenue, customer engagement, and delivery efficiency.
+
+---
+
+## 📊 Overview
+Analyzed Zomato dataset to uncover insights on restaurant performance, customer behavior, and delivery impact using SQL, Python, and Power BI.
+
+---
 
 ## 🎯 Objectives
-- Identify top restaurants
-- Analyze customer engagement
-- Study delivery trends
+- Identify top-performing restaurants  
+- Analyze customer engagement patterns  
+- Evaluate delivery performance impact  
 
-## 🛠 Tools
-- SQL (PostgreSQL)
-- Power BI
-- Python
+---
+
+## 🛠 Tools & Technologies
+- SQL (PostgreSQL)  
+- Python (EDA, Data Cleaning)  
+- Power BI (Dashboard & Visualization)  
+
+---
 
 ## 📊 Key Insights
-- High-rated restaurants drive more revenue
-- Delivery time impacts retention
-- Pricing affects order frequency
+- Top 20% restaurants contribute to majority of revenue  
+- Faster delivery significantly improves customer retention  
+- Higher ratings correlate with increased order frequency  
 
-## 📁 Structure
-- **data/** → dataset used for analysis  
-- **sql/** → SQL queries for data extraction  
-- **notebook/** → exploratory data analysis (EDA)  
-- **dashboard/** → Power BI dashboard files & screenshots  
-- **report/** → final report (PDF)  
+---
+
+## 📸 Dashboard Preview
+
+### Overview
+![Overview](dashboard/Overview.png)
+
+### Insights
+![Insights](dashboard/Insights.png)
+
+### Recommendations
+![Recommendations](dashboard/Recommendations.png)
+
+---
+
+## 📁 Project Structure
+
+- **data/** → raw dataset used for analysis  
+- **sql/** → PostgreSQL queries  
+- **notebook/** → Python EDA and cleaning  
+- **dashboard/** → Power BI dashboard & visuals  
+- **report/** → final analytical report  
+
+---
 
 ## 📂 Dataset
-- The full dataset is too large to upload on GitHub.
-- 👉 Download full dataset: https://drive.google.com/file/d/1iWFOalRv-uEs28I15cUktajM7j9WWmpg/view?usp=sharing
+- Full dataset (external due to size):  
+👉 [Download from Google Drive](https://drive.google.com/file/d/1iWFOalRv-uEs28I15cUktajM7j9WWmpg/view?usp=sharing)
 
-## 🚀 Conclusion
-This project demonstrates end-to-end data analysis workflow.
+- Sample dataset available in `/data`
+
+---
+
+## 🚀 Business Recommendations
+- Improve delivery time to increase customer retention  
+- Focus on high-performing restaurant segments  
+- Optimize pricing strategies for better conversion  
+
+---
+
+## ✅ Conclusion
+This project demonstrates an end-to-end data analysis workflow — from data cleaning and SQL querying to visualization and business insights generation.
